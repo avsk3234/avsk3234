@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an AI/ML enthusiast, tech innovator, and an av
 
 ## About Me
 
-- 🔭 I'm passionate about Artificial Intelligence, Machine Learning, and Data Science.
+- 🔭 I'm passionate about Artificial Intelligence, Machine Learning, and Cloud Computing.
 - 🌌 I love diving into the depths of astrophysics and cosmology, unraveling the secrets of the universe.
 - ⚡ I'm constantly exploring cutting-edge technologies and pushing the boundaries of innovation.
 - 🌱 Currently, I'm sharpening my skills in advanced machine learning techniques and deep learning architectures.
