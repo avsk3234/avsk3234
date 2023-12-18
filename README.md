@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Shrawan Saproo</h1>
 <h3 align="center">I'm a Cloud Developer, AI/ML enthusiast, and tech innovator from India</h3>
 
-<img align="right" alt="GCP/AI/ML" widht="100" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="GCP/AI/ML" widht="300" src="![image](https://github.com/avsk3234/avsk3234/assets/102973966/d008cb25-7e9e-4d8f-bea3-0ba82372ef1e)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avsk3234&label=Profile%20views&color=0e75b6&style=flat" alt="avsk3234" /> </p>
 
